@@ -1,1 +1,8 @@
-<p>task-item works!</p>
+<div class="task">
+  <h3>{{ tarefa.tarefa }}</h3>
+  <fa-icon [icon]="faTimes" [ngStyle]="{ color: 'red' }"></fa-icon>
+  <span class="material-symbols-outlined"> home </span>
+  <span class="material-icons">pie_chart</span>
+  <span class="material-icons" [ngStyle]="{ color: 'blue' }">2k_plus</span>
+  <p>{{ tarefa.categoria }}</p>
+</div>

@@ -1,0 +1,6 @@
+ng add @fortawesome/angular-fontawesome
+
+
+font awesome 6
+
+depois carregar seta para baixo e selecionar ao carrrgar no space o font awesoe regular e brand  e solid vg icons qualquer coisa
